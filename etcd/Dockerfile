@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.1
+FROM gcr.io/google_samples/gb-frontend:v3
 MAINTAINER everestocean196@gmail.com
