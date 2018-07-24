@@ -1,2 +1,2 @@
-FROM gcr.io/my_project_id/pg:v1
+FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.10
 MAINTAINER everestocean196@gmail.com
